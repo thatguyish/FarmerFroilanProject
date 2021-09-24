@@ -1,4 +1,4 @@
-package thefarm;
+package mcfroilan;
 
 public interface Eater {
 
