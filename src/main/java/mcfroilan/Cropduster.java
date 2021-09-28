@@ -1,8 +1,5 @@
 package mcfroilan;
 
-public class Cropduster {
-    public Cropduster(String model){
-
-    }
+public class Cropduster extends Aircraft {
 
 }
