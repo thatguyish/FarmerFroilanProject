@@ -1,6 +1,6 @@
 package mcfroilan;
 
-public abstract class Vehicle implements Noisemaker, Rideable {
+public abstract class Vehicle implements NoiseMaker, Rideable {
 
 
 }
