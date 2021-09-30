@@ -1,4 +1,4 @@
-package farmerFroilanProject;
+package mcfroilan;
 
 public interface FarmVehicle {
 
