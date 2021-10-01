@@ -1,6 +1,6 @@
 package mcfroilan;
 
-interface Noisemaker{
+interface NoiseMaker{
 
     public void makeNoise();
 
