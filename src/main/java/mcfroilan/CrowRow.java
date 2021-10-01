@@ -1,6 +1,6 @@
 package mcfroilan;
 
-public class CropRow {
+public class CrowRow {
     public Crop[] crops;
 
 
